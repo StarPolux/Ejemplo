@@ -1,0 +1,29 @@
+.{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: blanchedalmond;
+}
+.table-1,.table-2 {
+    border: solid 1px rgb(221, 188, 126);
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center; 
+    margin-left: 300px;
+   
+    
+    
+}
+tr,td,caption{
+    border: solid 1.5px rgb(221, 188, 126);
+}
+.tabla-1.1{
+     left: 100px
+     
+}
+.titulo{
+    text-align: center;
+}
+tr{
+    background-color: white;
+}
